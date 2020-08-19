@@ -1,0 +1,3 @@
+To print to the console, the command is:
+
+console.writeline("Hello")
