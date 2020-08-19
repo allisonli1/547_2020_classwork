@@ -1,4 +1,6 @@
 Specifications:
 
-What do I want to do:
+What do I want in my database:
 Name
+Blood Type
+Gender
